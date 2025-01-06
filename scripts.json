@@ -1,0 +1,46 @@
+[
+    {
+       "Titulo":"Dawn",
+       "creditos": "Kuba And httpgets",
+       "desc" : "Aimbot HitBox Expender",
+       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/kuba-hdx/nebula/refs/heads/main/DawnBeta1.13KT\"))()",
+       "jogo" : "Game : Dahood",
+       "imagem" : "https://cdn.discordapp.com/attachments/1268695912222429346/1323563847818285086/acquiredtarget.png?ex=677ce163&is=677b8fe3&hm=47e581fefa083f1ba211cb6f343b6b7f0a81395b8fdf2c7933933ce5ed19b966&"
+      
+    },
+    {
+        "Titulo":"Unc Test",
+        "creditos": "Script Ware Developers",
+        "desc" : "Checks Supported Functions",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua\"))()",
+        "jogo" : "Game: Any Game",
+        "imagem" : "https://rbxscript.com/images/-DFTvouggjy-image.jpg"
+       
+     },
+     {
+        "Titulo":"Vape V4",
+        "creditos": "Unknown",
+        "desc" : "Best Script For Bedwars",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua\"))()",
+        "jogo" : "Game: Bedwars",
+        "imagem" : "https://i.ytimg.com/vi/pEps1Axy_8o/maxresdefault.jpg"
+     },
+     {
+        "Titulo":"Infinite Yield",
+        "creditos": "Unknown",
+        "desc" : "Adnim cmds",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()",
+        "jogo" : "Game: Bedwars",
+        "imagem" : "https://www.haxhell.com/wp-content/uploads/2023/09/inf-yield-1920x1080.png"
+     },
+     {
+        "Titulo":"Hoho Hub",
+        "creditos": ".gg/hohohub",
+        "desc" : "Blox Fruits Script With Key System",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI\"))()",
+        "jogo" : "Game: Blox Fruits",
+        "imagem" : "https://i.ytimg.com/vi/CNNVCTmmamc/maxresdefault.jpg"
+     }
+    
+ ]
+ 
