@@ -14,7 +14,7 @@
         "desc" : "Checks Supported Functions",
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/refs/heads/main/UNCCheckEnv.lua\"))()",
         "jogo" : "Game: Any Game",
-        "imagem" : "https://rbxscript.com/images/-DFTvouggjy-image.jpg"
+        "imagem" : "https://getexploits.com/thumbnails/custom/696046271261331456.png"
        
      },
      {
@@ -40,7 +40,30 @@
         "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI\"))()",
         "jogo" : "Game: Blox Fruits",
         "imagem" : "https://i.ytimg.com/vi/CNNVCTmmamc/maxresdefault.jpg"
+     },
+     {
+        "Titulo":"Speed hub",
+        "creditos": "ahmadv99",
+        "desc" : "Best Fisch Script With Good Ui",
+        "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua\"))()",
+        "jogo" : "Game: Fisch And More",
+        "imagem" : "https://i.postimg.cc/vZPyKPVs/Roblox-Player-Beta-tr-Cl-VAua-HZ.png"
+     },
+     {
+        "Titulo":"Dex Script",
+        "creditos": "Unknown",
+        "desc" : "Dex Script is user-friendly, making it accessible for both beginners and experienced developers.",
+        "script":"loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer%20V2.txt\"))()",
+        "jogo" : "Game: Every Game",
+        "imagem" : "https://th.bing.com/th/id/OIP.shNTi2uwhqgHSIxK3gzqvwAAAA?rs=1&pid=ImgDetMain&adlt=strict"
+     },
+     {
+        "Titulo":"Sunc",
+        "creditos": "sens",
+        "desc" : "Best Unc Test It Test Every Function You Can If Unc Faked Or No.",
+        "script":"loadstring(game:HttpGet(\"https://gitlab.com/sens3/nebunu/-/raw/main/HummingBird8's_sUNC_yes_i_moved_to_gitlab_because_my_github_acc_got_brickedd/sUNCm0m3n7.lua\"))()",
+        "jogo" : "Game: Every Game",
+        "imagem" : "https://cdn.discordapp.com/attachments/1263823073962889298/1319653124629069834/image.png?ex=677c7efe&is=677b2d7e&hm=9729ac12603cb75e0263f4bfbd6ea71e509e79002912201d17d14d4bd5a4a363&"
      }
     
  ]
- 
